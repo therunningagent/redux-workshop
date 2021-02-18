@@ -1,5 +1,18 @@
 # Redux Workshop
 
+## Setup
+
+Fork and clone this repo. There are three subfolders with exercises:
+
+- `01-redux-fundamentals`
+- `02-redux-toolkit`
+- `03-react-redux`
+
+Each of these exercise folders has a separate project we'll be working on during
+the workshop to get hands-on practice writing Redux code. The readme files in
+each of these folders has separate instructions for getting set up, so make sure
+to get those up and running!
+
 ## Intro
 
 Objectives:
