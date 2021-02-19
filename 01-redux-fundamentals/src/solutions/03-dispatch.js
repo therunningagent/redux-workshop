@@ -1,5 +1,5 @@
 function setupEvents(store) {
-  document.querySelector("#increment").addEventListener("click", () => {
+  document.querySelector("#increment").addEventListener("click", () => 
     store.dispatch({ type: "counter/incremented" });
   });
 
